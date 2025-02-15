@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => { // Ensure DOM is fully loa
 
     yesBtn.addEventListener("click", () => {
         question.innerHTML = "You are my girlfriend now!";
-        gif.src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N2cGF6Z3NpbHkxMnV1bTN6cWNkdDYyZjkyaGJjeXJkbjZ6cmNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifB1v1W3Db0GIW7uTA/giphy.gif";
+        gif.src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ0cmxpMG9sbDFzeTVmMTRjYW5wdnQydXJpdTkzZm9iOGphOHJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifB1v1W3Db0GIW7uTA/giphy.gif";
     });
 
     noBtn.addEventListener("mouseover", () => {
